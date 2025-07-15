@@ -17,7 +17,7 @@
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-build</artifactId>
         <version>2.1.2.RELEASE</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <properties>
@@ -59,7 +59,7 @@
 
         <hikaricp.version>3.1.0</hikaricp.version>
         <jsonpath.version>2.4.0</jsonpath.version>
-        <commons-lang.version>3.4</commons-lang.version>
+        <commons-lang.version>3.18.0</commons-lang.version>
         <equalverifier.version>2.4.1</equalverifier.version>
         <hibernate.jpa.version>1.0.0.Final</hibernate.jpa.version>
         <mariadb-java-client.version>2.4.0</mariadb-java-client.version>
